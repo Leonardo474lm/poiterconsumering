@@ -5,7 +5,7 @@
 
 	<groupId>com.pointerweb</groupId>
 	<artifactId>pointerrestconsumerin</artifactId>
-	<version>0.0.13</version>
+	<version>0.0.14</version>
 	<packaging>jar</packaging>
 	<name>pointer-rest-consumer-in</name>
 	<description>Servicios rest de Consumo Entidades</description>
@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.18.16</version>
+			<version>1.18.38</version>
 		</dependency>
         
 	</dependencies>
